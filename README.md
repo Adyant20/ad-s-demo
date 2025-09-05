@@ -1,3 +1,4 @@
 # ad-s-demo
-This is my first repository
-author- Aditi Das
+This is my first repository.
+<br>
+Author- Aditi Das
